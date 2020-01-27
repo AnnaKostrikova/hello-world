@@ -1,2 +1,1 @@
-*
-!*.py
+print("Hello World")
